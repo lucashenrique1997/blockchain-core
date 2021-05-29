@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-core",
+  "version": "1.0.0",
+  "description": "Blockchain Core ",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashenrique1997/blockchain-core.git"
+  },
+  "author": "Lucas Vitorino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashenrique1997/blockchain-core/issues"
+  },
+  "homepage": "https://github.com/lucashenrique1997/blockchain-core#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
